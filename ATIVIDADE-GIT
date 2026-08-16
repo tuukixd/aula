@@ -1,1 +1,4 @@
-
+mkdir atividade-git
+cd  atividade-git/
+git init
+git status
